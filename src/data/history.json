@@ -1,0 +1,29 @@
+ [
+ {
+    "role": "Software Engineer Demo",
+    "organisation": "Google",
+    "startDate": "Aug, 2020",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer Demo",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2020",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern Demo",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2018",
+    "endDate": "Jun, 2019",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
